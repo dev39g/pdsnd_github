@@ -44,5 +44,3 @@ new_york_city.csv - Dataset containing all bikeshare information for the city of
 washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
 
-In this project, Python is used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
-According to the input the code will import the data and will provide information by computing descriptive statistics.
